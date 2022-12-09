@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/app/controllers/AddBillCtrl.class.php</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/core/ParamUtils.class.php</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/app/views/MainPage.tpl</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/app/forms/LoginForm.class.php</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/app/controllers/MainPageCtrl.class.php</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/app/forms/AddBillForm.class.php</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/core/SessionUtils.class.php</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/lib/Medoo/Medoo.php</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/app/controllers/LoginCtrl.class.php</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/app/forms/SearchMyBillsForm.class.php</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/app/views/AddBillView.tpl</file>
+            <file>file:/C:/Users/micha/Documents/xampp/htdocs/amelia/app/forms/EditUserForm.class.php</file>
+        </group>
+    </open-files>
+</project-private>
